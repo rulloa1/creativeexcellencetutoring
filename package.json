@@ -1,0 +1,19 @@
+{
+  "name": "creative-excellence-tutoring",
+  "version": "1.0.0",
+  "description": "Creative Excellence Tutoring website project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "node build.js",
+    "dev": "node index.js",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": ["tutoring", "education"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "esbuild": "^0.20.0"
+  }
+}
